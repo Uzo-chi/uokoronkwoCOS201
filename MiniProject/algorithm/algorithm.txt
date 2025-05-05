@@ -1,0 +1,16 @@
+A student information system that allows acces to student records
+	Create a validation system for users (user_validation.txt)
+
+	Allow users to update scores, view, search for, and save student record
+		Prompt user for input
+		Check user input
+		If user input is for update scores
+			Update scores (update_scores.text)
+		If user input is for view records
+			View records (view_records.txt)
+		If user input is for search record
+			Search for record (search.txt)
+		If user input is for save record
+			Save record (save_record.txt)
+		If user input is for exit
+			Exit program

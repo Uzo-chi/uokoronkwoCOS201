@@ -1,0 +1,13 @@
+Save record
+
+Initialize matric
+Open student_records file
+Prompt user for matric. no. and save to matric
+If matric in student_records
+    Display student record
+    Create new file with matric as file name
+    Copy student record to new file
+    Close new file
+Else
+    Display "No such student exists!"
+Close file

@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int score=-50;
+int score=45;
 
 int main() {
 	if (score>=0 && score<=100){

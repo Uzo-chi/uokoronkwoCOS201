@@ -1,0 +1,11 @@
+Update user scores
+
+Open student_records file
+Initialize matric
+Prompt user for student matriculation number and store in matric
+If matric in student_records file
+    Prompt for new scores for all courses
+    Display "Successfully updated record in file"
+Else
+    Display "No such student"
+Close file

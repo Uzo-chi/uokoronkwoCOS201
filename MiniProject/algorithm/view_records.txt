@@ -1,0 +1,7 @@
+View records
+
+Open student_records file
+While not at end of file
+    Read line
+    Display line
+Close file

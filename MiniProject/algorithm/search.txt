@@ -1,0 +1,10 @@
+Search for record
+
+Initialize matric
+Open student_records
+Prompt user for matric no. and store in matric
+If matric in student_records
+    Display record
+Else
+    Display "No such student exists!"
+Close file

@@ -1,0 +1,20 @@
+Create a validation system for users
+    Prompt users for username and password
+    Validate username and password from text file
+    Log users in
+
+Open user file
+Read user file
+While True
+    Initialize username and password
+    Prompt user for username and password
+    If username in user file
+        If password in user file
+            Break loop
+        Else
+            Display "Kindly re-enter a valid username and password"
+            Continue loop
+    Else
+        Display "Kindly re-enter a valid username and password"
+        Continue loop
+Close file

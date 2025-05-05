@@ -1,0 +1,4 @@
+Matric-No Surname Firstname CSC201 CSC205 MTH201 MTH205 GST201
+01 Mark Sale 85 90 78 88 92
+02 Tim Cook 75 80 85 90 95
+03 Jack Reings 80 85 90 95 100

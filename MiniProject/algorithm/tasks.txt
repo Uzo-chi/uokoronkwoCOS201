@@ -1,0 +1,20 @@
+Kamsi  - Write a student records file
+Ayo    - Create a way (preferrably 'class' or 'struct') for users to search for a student's            record
+Ayanfe - Create a function or class that can displays all of the student records in a text          file
+Kola   - Create a function or class that saves a particular student record to a file named          after the student's matric. number
+Kaima  - Create a function or class that can find a student's record and change the scores          for their subjects
+
+
+Note:
+- The student records file should be saved in the following order:
+  
+	studentName,MatricNo,COS201,GST212,SEN201,MTH201,ENT211
+
+  where you put actual numbers for the different course names
+
+- Use error handling when implememting your classes or functions to account for any unforseen   circumstance such as invalid inputs, value errors, etc.
+
+- You can create temporary text files for testing the functionality of your classes or   functions.
+
+Please note that I do not need you to give me an entire program but just the function or class (or whatever you choose to do) that I want.
+Feel free to reach out to me for questions and enquiries.
